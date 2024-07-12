@@ -2,6 +2,10 @@
 
 ## Trilha ReactJS
 
+## Descrição
+
+Cadastro de viagem
+
 ### Tecnologias
 
 - Vite
